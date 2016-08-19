@@ -1,6 +1,6 @@
 
 public class Grape extends Fruit {
 	public Grape() {
-		this.name = "포도";
+		this.setName("포도");
 	}
 }
